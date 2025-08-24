@@ -24,12 +24,7 @@ export default defineConfig(({ mode }) => {
       // Ensure environment variables are replaced at build time
       target: 'es2020',
       sourcemap: false,
-      minify: 'terser',
-      terserOptions: {
-        compress: {
-          drop_console: true
-        }
-      }
+      minify: 'esbuild' // Using esbuild for minification which is faster and included with Vite
     }
   }
 })
