@@ -261,7 +261,7 @@ const Projects = () => {
                         <span>Code</span>
                       </motion.a>
 
-                      <motion.button
+                      <motion.a
                         href={project.liveUrl}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -273,7 +273,7 @@ const Projects = () => {
                       >
                         <ExternalLink className="w-4 h-4" />
                         <span>Live Demo</span>
-                      </motion.button>
+                      </motion.a>
                     </div>
                   </div>
                 </div>
