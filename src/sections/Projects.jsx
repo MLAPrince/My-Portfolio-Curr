@@ -472,7 +472,7 @@ const Projects = () => {
         { name: "JavaScript", icon: <SiJavascript />, color: "#F7DF1E" },
       ],
       githubUrl: "https://github.com/MLAPrince/Spotify-Clone.git",
-      liveUrl: "",
+      liveUrl: "https://mla-spotify-clone.netlify.app/",
       status: "Completed",
       category: "Frontend"
     }
