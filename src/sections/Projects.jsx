@@ -48,7 +48,7 @@ const Projects = () => {
         { name: "MongoDB", icon: <SiMongodb />, color: "#47A248" },
       ],
       githubUrl: "https://github.com/MLAPrince/Password-Manager-using-MERN_stack.git",
-      liveUrl: "", // Placeholder for future deployment
+      liveUrl: "https://mlapass.netlify.app/", // Placeholder for future deployment
       status: "Completed",
       category: "Full Stack"
     },
