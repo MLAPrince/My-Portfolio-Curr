@@ -79,7 +79,7 @@ const Projects = () => {
         { name: "TailwindCSS", icon: <SiTailwindcss />, color: "#06B6D4" },
       ],
       githubUrl: "https://github.com/MLAPrince/ToDo-App-Using-React.git",
-      liveUrl: "",
+      liveUrl: "https://mla-todo-app.vercel.app",
       status: "Completed",
       category: "Frontend"
     },
