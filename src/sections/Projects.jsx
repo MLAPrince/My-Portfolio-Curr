@@ -48,7 +48,7 @@ const Projects = () => {
         { name: "MongoDB", icon: <SiMongodb />, color: "#47A248" },
       ],
       githubUrl: "https://github.com/MLAPrince/Password-Manager-using-MERN_stack.git",
-      liveUrl: "https://mlapass.netlify.app/", // Placeholder for future deployment
+      liveUrl: "https://mlapass.vercel.app",
       status: "Completed",
       category: "Full Stack"
     },
@@ -64,7 +64,7 @@ const Projects = () => {
         { name: "Redis", icon: <SiRedis />, color: "#DC382D" },
       ],
       githubUrl: "https://github.com/MLAPrince/Note-Taking-App-using-MERN.git",
-      liveUrl: "",
+      liveUrl: "https://mla-note-taking-app.vercel.app/",
       status: "Completed",
       category: "Full Stack"
     },
@@ -125,7 +125,7 @@ const Projects = () => {
         { name: "JavaScript", icon: <SiJavascript />, color: "#F7DF1E" },
       ],
       githubUrl: "https://github.com/MLAPrince/Spotify-Clone.git",
-      liveUrl: "https://mla-spotify-clone.netlify.app/",
+      liveUrl: "https://mla-spotify-clone.netlify.app",
       status: "Completed",
       category: "Frontend"
     }
